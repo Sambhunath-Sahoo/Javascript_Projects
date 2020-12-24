@@ -1,9 +1,9 @@
 .container-1 {
+  margin-top: 15px;
   border: 2px solid black;
-  margin: 55px 20%;
-  justify-content: center;
+  margin: 0 auto;
+  width: 75%;
   text-align: center;
-  
 }
 
 .flex-box-container-1 {
@@ -18,5 +18,7 @@
 .flex-box-container-1 div {
   display: flex;
   padding: 10px;
+  border: 2px solid black;
   align-items: center;
 }
+
