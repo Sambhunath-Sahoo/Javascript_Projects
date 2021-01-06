@@ -24,3 +24,8 @@ function generateCat() {
     div.appendChild(image);
 }
 
+// Challenge 3: Rock, Paper, Scissors
+function rpsGame(yourChoice) {
+    
+}
+
